@@ -1,0 +1,16 @@
+{
+    lightLevel = 15,
+    buttonMode = false,
+    emitRedstone = false,
+    shapes = {
+        {4,0,4, 12,2,12,   texture="planks_oak"},
+        {5,2,5, 11,4,11,   texture="planks_oak"},
+        {7,4,7, 9,9,9,    texture="stone"},
+        {3,9,3, 14,10,14, texture="chisel:blocks/wool/legacy/lightblue"},
+        {4,10,4, 13,11,13, texture="chisel:blocks/wool/legacy/lightblue"},
+        {5,11,5, 12,12,12, texture="chisel:blocks/wool/legacy/lightblue"},
+        {6,12,6, 11,13,11, texture="chisel:blocks/wool/legacy/lightblue"},
+        {7,13,7, 10,14,10, texture="chisel:blocks/wool/legacy/lightblue"},
+        {8,14,8, 9,15,9,   texture="chisel:blocks/wool/legacy/lightblue"}
+    }    
+}

@@ -1,0 +1,1 @@
+function require(name) return component.proxy(component.list(name)()) end

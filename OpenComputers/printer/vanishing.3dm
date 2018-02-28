@@ -1,0 +1,11 @@
+{
+    label = "Vanishing",
+    lightLevel = 0,
+    buttonMode = false,
+    emitRedstone = false,
+    collidable = {true,false},
+    shapes = {
+        {0,0,0, 16,16,16, texture="planks_oak", state=false},
+        {0,0,0, 1,1,1, texture="planks_oak", state=true}
+    }    
+}
